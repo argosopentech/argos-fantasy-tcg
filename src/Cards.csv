@@ -1,0 +1,22 @@
+Name,MTG Name,Type,Ability,Cost,Power,Image
+,,Basic Land – Plains,,,,https://commons.wikimedia.org/wiki/File:Italian_Landscape_by_Sokrat_Vorobyov_(1840s).jpg
+Angel's Mercy ,Angel's Mercy ,Instant,Gain 7 life,2 + 2P,,https://commons.wikimedia.org/wiki/File:Circle_of_Rembrandt_-_Tobit_and_Angel_Healing_Blindness.jpg
+Hail of Arrows,Hail of Arrows,Instant,Deal X damage among attacking creatures,X + P,,https://commons.wikimedia.org/wiki/File:Longbowmen.jpg
+Blinding Mage,Blinding Mage,Creature – Human Wizard,"P, ←: Tap target creature",1 + P,1 – 2,https://commons.wikimedia.org/wiki/File:Maeve%26druid.jpg
+Attacking Angel,Serra Angel,Creature – Angel,"Flying, vigilance",3 + 2p,4 – 4,"https://commons.wikimedia.org/wiki/File:The_ass_with_the_prophet_Bileam_stopped_by_the_angel,_Gerrit_Claesz._Bleker,_1634,_oil_on_canvas,_95,5_by_128,5_cm,_Museum_Boijmans_van_Beuningen.jpg"
+Fencing Ace,Fencing Ace,Creature – Human Soldier,Double strike,1 + P,1 – 1,https://commons.wikimedia.org/wiki/File:Saint-George_D%27Eon_Robineau.jpg
+Pacifism,Pacifism,Enchantment – Aura,"Enchant a creature, the enchanted creature can’t attack or block",1 + P,,https://commons.wikimedia.org/wiki/File:William_Tylee_Ranney_-_Veterans_of_1776_Returning_from_the_War.JPG
+Chastise,Chastise,Instant,Destroy target attacking creature and gain life equal to its power,3 + P,,https://commons.wikimedia.org/wiki/File:Mort_de_Roland.jpg
+White Knight,White Knight,Creature – Human Knight,"First strike, protection from black",2P,2 -2,https://commons.wikimedia.org/wiki/File:Boys_King_Arthur_-_N._C._Wyeth_-_p246.jpg
+Disenchant,Disenchant,Instant,Destroy target artifact or enchantment,1 + P,,https://commons.wikimedia.org/wiki/File:The_Witch_of_Endor_(William_Blake)_2.jpg
+Sword to Plowshares,Sword to plowshares,Instant,"Exile target creature, its controller gains life equal to its power",P,,https://commons.wikimedia.org/wiki/File:Rosa_Bonheur_-_Le_laborage_(1844).jpg
+Wrath of God,Wrath of God,Sorcery,"Destroy all creatures, they can’t be regenerated",2 + 2P,,https://commons.wikimedia.org/wiki/File:Blake_Cain_Fleeing_from_the_Wrath_of_God_(The_Body_of_Abel_Found_by_Adam_and_Eve)_c1805-1809.jpg
+Moat,Moat,Enchantment – Aura,You can only be attacked by creatures with flying,2 + 2P,,https://commons.wikimedia.org/wiki/File:Marszewski_Trakai_Castle.jpg
+Enlightened Tutor,Enlightened Tutor,Instant,"Search your library for an artifact or enchantment, reveal it, shuffle, and place it on top of your deck",P,,https://commons.wikimedia.org/wiki/File:Alexander_and_Aristotle.jpg
+Savannah Lions,Savannah Lions,Creature – Cat,,P,2 – 1,https://commons.wikimedia.org/wiki/File:Grollende_L%C3%B6wen_by_Wilhelm_Kuhnert.jpg
+Empyrial Armor,Empyrial Armor,Enchantment – Aura,"Enchant a creature, enchanted creature gets +1/+1 for each card in your hand",1 + 2P,,https://commons.wikimedia.org/wiki/File:Thetis_Bringing_Armor_to_Achilles_II_by_Benjamin_West.jpg
+Exalted Angel,Exalted Angel,Creature – Angel,"Flying, whenever Exalted Angel deals damage you gain an equal amount of life. Morph 2 + 2P (may be played face down as a 2/2 creature for 3 then turned face up for its morph cost)",4 + 2P,4 – 5,https://commons.wikimedia.org/wiki/File:Tobias_and_the_Angel_-_Filippino_Lippi.jpg
+Mother of Runes,Mother of Runes,Creature – Human Cleric,->: Target creature you control gains protection from a color of your choice until the end of turn,P,1 – 1,"https://commons.wikimedia.org/wiki/File:Goya_y_Lucientes,_Francisco_-_Saint_Isabel_of_Portugal_Healing_the_Wounds_of_a_Sick_Woman_-_Google_Art_Project.jpg"
+Black Vise,Black Vise,Artifact,When Black Vise enters the battle field choose a player. That player takes (the # of cards in their hand – 4) damage,1,,https://commons.wikimedia.org/wiki/File:1904_Lovis_Corinth_Portr%C3%A4t_des_Bildhauers_Friedrich.jpg
+Winter Orb,Winter Orb,Artifact,While Winter Orb is untapped all players may only untap one land during their untap step,2,,https://commons.wikimedia.org/wiki/File:Caesar_van_Everdingen_-_Amor_Holding_a_Glass_Orb_-_WGA7567.jpg
+Icy Manipulator,Icy Manipulator,Artifact,"1 + T: Tap target artifact, creature, or land",4,,https://commons.wikimedia.org/wiki/File:The_Spy_Nicolae_Grigorescu.jpg
