@@ -1,4 +1,5 @@
 # Argos Fantasy TCG
+## [Print](https://github.com/argosopentech/argos-fantasy-tcg/blob/master/Printable.pdf)
 
 Argos Fantasy TCG is a public domain trading card game similar to Magic the Gathering.
 
